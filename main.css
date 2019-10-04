@@ -1,0 +1,46 @@
+*{margin: 0;padding: 0;outline: 0;}
+body{font-size:14px;line-height: 18px;font-family: arial;}
+.templete{width: 960px;margin: 0 auto;}
+.clear{overflow: hidden;}
+
+input[type="text"], input[type="email"] {
+	border: 1px solid #cfc5b6;
+	border-radius: 3px;
+	margin-bottom: 5px;
+	padding: 5px;
+	width: 215px;
+}
+
+.headsection{background: #fff; margin-top: 30px;line-height: 40px;}
+.headsection h1 {
+  text-align: center;
+  font-size: 20px;
+  color: #f6b737;
+}
+.maincontent{
+  background: #FFFF none repeat scroll 0 0;
+  border: 1px solid #FFF9F9;
+  float: left;
+  margin: -18px 15px 15px 350px;
+  padding: 8px 15px;
+  width: 606px;
+}
+
+.maincontent{}
+.maincontent p {
+  margin-left: 100px;
+  font-family: "Book Antiqua";
+  text-align: justify;
+  font-size: 16px;
+  line-height: 50px;
+  text-align: justify;
+}
+.maincontent p1{margin-left: 155px;}
+
+.footertop{margin-left: 100px;padding: 10px 5px 5px !important;margin-top: 5px;padding-top: 5px;}
+.footertop i{margin-right: 10px;}
+.samefooter{padding: 10px;}
+.samefooter img{text-align: center;}
+
+.footersection{background: #000; font-size: 15px;line-height: 20px; height: 60px;text-align: center;}
+.footersection p{text-align: center;color: #fff;margin-bottom: 15px;margin-top: 20px;}
